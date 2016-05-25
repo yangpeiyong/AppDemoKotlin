@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yangpeiyong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_0377edc8aed33ad1a821f92557637602631ce43e.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_94af1952a0d90673ea9fb0cba59fbd1cedcca3a5.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_99cdc099aadc73b96d27edf5685292108f7fa987.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_f81148126eb7b985f46155ab7e321ad53f8f284d.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/okio-1.6.0_0a8552faaf4b156e4de4207929df0175978a0130.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_fa1b05e0e8dbcd45e3cb0b0462c762f1b65dca09.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_29ba51238be801d0283a7a0a8c065ae824110398.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/gson-2.6.1_6b0c86b70ea325fdd771cb7106dc3c410908f087.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b8b7736c0b666fef26704d0d5a5d36c9d702874a.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.2/8ec2d49a780ddba5e9b6860a72969e4d5bbc0c55/kotlin-runtime-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ec2d49a780ddba5e9b6860a72969e4d5bbc0c55">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/kotlin-runtime-1.0.2_afe22c17e220944522d3ea2d2664fe64758ab89f.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_fd57dcbe081a07ce36154eaff43d3a87d05b2b33.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_67a598a3ad8e394f6a2996bc0bb4c0c382ae25d4.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.2/22063f19bfd8e50f21fc310842a91ff5b31bb272/kotlin-stdlib-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="22063f19bfd8e50f21fc310842a91ff5b31bb272">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.0.2_7af8561bfc8584c79aef950c26a09d7d0dff81e3.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_563caa81c7fd8278a91022654fe33b6e87884fa6.jar" />
+    </item>
+    <item
+        jar="/Users/yangpeiyong/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/yangpeiyong/Downloads/AppDemokotlin/app/build/intermediates/pre-dexed/debug/glide-3.6.1_04386c69ef3b73bb46ac9204d9cdcbe563e1ffb0.jar" />
+    </item>
+
+</items>
