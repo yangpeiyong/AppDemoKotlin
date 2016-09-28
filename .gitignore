@@ -6,9 +6,5 @@
 /import-summary.txt
 *.iml
 /build
-/circleimageview/build
-/pullToRefresh/build
-/pullToRefreshViewPager/build
-/SwipeBack/build
 
 
